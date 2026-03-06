@@ -7,3 +7,5 @@ if __name__ == "__main__":
     obs = [1.2 , 2.5 , 3.8]
     pred = [1.0 , 2.7 , 4.0]
     print (" Sistema iniciado com sucesso .")
+    
+    print("!!!")
